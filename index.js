@@ -23,15 +23,3 @@ document.querySelector(".container").appendChild(btn);
 btn.addEventListener("click", function onclick(){
     clearTimeout(timeout)
 })  
-
-
-
-
-
-
-
-/*
-    Přidejte na stránku tlačítko, které umožní odpočet minutky zrušit dřív, než začne zvonit.
-
-    */
-
